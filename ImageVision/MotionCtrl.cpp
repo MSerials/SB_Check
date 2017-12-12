@@ -18,7 +18,6 @@ CMotionCtrl::CMotionCtrl(CWnd* pParent /*=NULL*/)
 	isHomeThread1 = false;
 }
 
-
 CMotionCtrl::~CMotionCtrl()
 {
 
