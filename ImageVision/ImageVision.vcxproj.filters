@@ -108,6 +108,1209 @@
     <ClInclude Include="TCPServer.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="include\DALSA\capiacqd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capiacqdevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capiacqp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capibuf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capicab.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capicam.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capicnt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capictrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capidef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capidisp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capieventinfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capifeature.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capifile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capigio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capigra.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capilut.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capiman.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capimsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capiparam.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capipci.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capipixp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capiport.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capiser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capivic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capiview.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\capixfer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\corapi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\CorCbh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\cordef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\corenv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\corlib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\corlogid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\corpack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\corstat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\cpackd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\cunpackd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\design.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\formats.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\pixpkey.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DALSA\SapVersion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\com\HalconCOM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\com\HalconXimport.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HalconCpp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HBarCode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HBarCode1D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HBarCode2D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HBarrier.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HBgEsti.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HByteImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HByteRegion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HCalibData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HCalibModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HCameraSetupModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HClassBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HClassGmm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HClassLUT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HClassMlp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HClassSvm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HColorTransLUT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HComplexImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HComponentModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HComponentTraining.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HComputeDevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HCondition.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HConvol.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HCPPGlobal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HCPPToolRef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HCPPUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HDataCode2D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HDeformableModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HDescriptorModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HDevWindowStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HDistribution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HDRegion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HEvent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HException.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HFloatImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HFramegrabber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HFunction1D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HGnuplot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HImageArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HInt1Image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HInt2Image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HInt4Image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HInterfaceCPP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HIOStream.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HIterator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HLexicon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HLUT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HMeasure.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HMultiImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HMutex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HNCCModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HNumeric.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HObjectModel3D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HOCRBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HOCRMlp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HOCRSvm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HOCV.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HOperator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HPixVal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HPrimitives.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HQuadRegion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HRectangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HRegion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HRegionArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HRLRegion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HSemImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HSerial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HShapeModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HShapeModel3D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HSheetOfLightModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HSocket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HStereoModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HStrEl2D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HSurfaceMatchingResult.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HSurfaceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HTemplate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HTextModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HTextResult.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HTools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HTuple.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HUInt2Image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HVariationModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HWindow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDCont.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDContArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDExtPara.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDExtParaArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDModPara.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDModParaArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDPara.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDParaArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDPoly.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\cpp\HXLDPolyArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hdevengine\HDevEngineCpp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\CIOFrameGrab.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\CORE1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\DBNew.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\HAlloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\HBaseGP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\HError.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\HInstance.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\HRLClip.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\HXLD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\hlib\IOSpy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\Halcon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HalconC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HalconCDefs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HConst.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HCtype.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HDeclSpec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HErrorDef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HExtern.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HIntDef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HInterfaceC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HMacro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HParallel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HProto.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HSync.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\HVersNum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\halcon\IPType.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\cv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\cv.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\cvaux.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\cvaux.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\cvwimage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\cxcore.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\cxcore.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\cxeigen.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\cxmisc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\highgui.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv\ml.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\calib3d\calib3d.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\calib3d\calib3d_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\hal\hal.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\hal\interface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\hal\intrin.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\hal\intrin_cpp.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\hal\intrin_neon.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\hal\intrin_sse.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\affine.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\base.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\bufferpool.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\core.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\core_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\cuda.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\cuda.inl.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\cuda_stream_accessor.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\cuda_types.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\cvdef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\cvstd.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\cvstd.inl.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\directx.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\eigen.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\fast_math.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\ippasync.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\mat.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\mat.inl.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\matx.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\neon_utils.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\ocl.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\ocl_genbase.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\opengl.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\operations.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\optim.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\persistence.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\private.cuda.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\private.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\ptr.inl.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\saturate.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\sse_utils.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\traits.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\types.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\types_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\utility.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\va_intel.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\version.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core\wimage.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\features2d\features2d.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\all_indices.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\allocator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\any.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\autotuned_index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\composite_index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\defines.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\dist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\dummy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\dynamic_bitset.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\flann.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\flann_base.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\general.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\ground_truth.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\hdf5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\heap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\hierarchical_clustering_index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\index_testing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\kdtree_index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\kdtree_single_index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\kmeans_index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\linear_index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\logger.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\lsh_index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\lsh_table.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\matrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\miniflann.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\nn_index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\object_factory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\params.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\random.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\result_set.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\sampling.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\saving.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\simplex_downhill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann\timer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\highgui\highgui.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\highgui\highgui_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\imgcodecs\imgcodecs.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\imgcodecs\imgcodecs_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\imgcodecs\ios.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\imgproc\detail\distortion_model.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\imgproc\imgproc.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\imgproc\imgproc_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\imgproc\types_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\ml\ml.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\objdetect\detection_based_tracker.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\objdetect\objdetect.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\objdetect\objdetect_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\photo\cuda.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\photo\photo.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\photo\photo_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\shape\emdL1.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\shape\hist_cost.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\shape\shape.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\shape\shape_distance.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\shape\shape_transformer.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\autocalib.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\blenders.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\camera.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\exposure_compensate.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\matchers.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\motion_estimators.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\seam_finders.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\timelapsers.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\util.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\util_inl.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\warpers.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\detail\warpers_inl.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching\warpers.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\superres\optical_flow.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\video\background_segm.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\video\tracking.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\video\tracking_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\video\video.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videoio\cap_ios.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videoio\videoio.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videoio\videoio_c.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\deblurring.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\fast_marching.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\fast_marching_inl.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\frame_source.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\global_motion.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\inpainting.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\log.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\motion_core.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\motion_stabilizing.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\optical_flow.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\outlier_rejection.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\ring_buffer.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\stabilizer.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab\wobble_suppression.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\calib3d.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\core.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\cvconfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\features2d.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\flann.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\highgui.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\imgcodecs.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\imgproc.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\ml.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\objdetect.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\opencv - 副本.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\opencv.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\opencv_modules.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\photo.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\shape.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\stitching.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\superres.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\video.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videoio.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\videostab.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv2\world.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\_DahengImavision.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ActionCaculation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AdvanIO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capiacqd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capiacqdevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capiacqp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capibuf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capicab.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capicam.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capicnt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capictrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capidef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capidisp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capieventinfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capifeature.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capifile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capigio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capigra.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capilut.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capiman.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capimsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capiparam.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capipci.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capipixp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capiport.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capiser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capivic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capiview.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\capixfer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CircleSearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ConfigurationDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\corapi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CorCbh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cordef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\corenv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\corlib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\corlogid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\corpack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\corstat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpackd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cunpackd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DahengImavision.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\design.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dlg_open_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dlg_save_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FileVersion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\formats.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GetHDSerial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Global.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GxUSBSnapPnpDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ImageProc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Md5A.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MyImageTarget.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\NumEdit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\opencv.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Password.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\pixpkey.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SapVersion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\StaticDIDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SudBitmap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\VisionLib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ImageVision.cpp">
@@ -185,6 +1388,12 @@
     <ClCompile Include="TCPServer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="include\halcon\com\HalconXimport_i.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\staticdidlg.CPP">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="ImageVision.rc">
@@ -230,5 +1439,10 @@
     <None Include="res\ImageVision.rc2">
       <Filter>资源文件</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Midl Include="include\halcon\com\HalconXimport.idl">
+      <Filter>源文件</Filter>
+    </Midl>
   </ItemGroup>
 </Project>

@@ -21,8 +21,6 @@ protected:
 public:
 	afx_msg void OnTcnSelchange(NMHDR *pNMHDR, LRESULT *pResult);
 
-
-
 private:
 	CBottomDlg		m_BottomDlg;
 	CTopCamDlg		m_TopDlg;
