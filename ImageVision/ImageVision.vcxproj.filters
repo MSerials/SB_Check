@@ -1311,6 +1311,18 @@
     <ClInclude Include="include\VisionLib.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="motioncard\DMC1380\x64\Dmc1380.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="motioncard\DMC1380\x86\Dmc1380.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="motioncard\bdaqctrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="motioncard\Dmc1380.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ImageVision.cpp">
@@ -1444,5 +1456,8 @@
     <Midl Include="include\halcon\com\HalconXimport.idl">
       <Filter>源文件</Filter>
     </Midl>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="motioncard\Dmc1380.lib" />
   </ItemGroup>
 </Project>

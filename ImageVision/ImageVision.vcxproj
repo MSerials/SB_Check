@@ -606,6 +606,10 @@
     <ClInclude Include="include\_DahengImavision.h" />
     <ClInclude Include="MainControl.h" />
     <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="motioncard\bdaqctrl.h" />
+    <ClInclude Include="motioncard\Dmc1380.h" />
+    <ClInclude Include="motioncard\DMC1380\x64\Dmc1380.h" />
+    <ClInclude Include="motioncard\DMC1380\x86\Dmc1380.h" />
     <ClInclude Include="motioncard\MotionCard.h" />
     <ClInclude Include="MotionCtrl.h" />
     <ClInclude Include="Operation.h" />
@@ -691,6 +695,9 @@
   </ItemGroup>
   <ItemGroup>
     <Midl Include="include\halcon\com\HalconXimport.idl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="motioncard\Dmc1380.lib" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
